@@ -20,7 +20,7 @@ section .row {
     display: flex;
     padding: 10px 0;
     white-space: nowrap;
-    font-size: 64px;
+    font-size: 75px;
     transform: rotate(-30deg)
 }
 
@@ -34,8 +34,8 @@ i {
 
 i:hover {
     transition: 0s;
-    color: #0f0;
-    text-shadow:  0 0 120px #0f0;
+    color: #9400d3;
+    text-shadow: 0 0 120px #9400d3;
 }
 
 section .row div {
